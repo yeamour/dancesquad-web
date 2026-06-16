@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2772161223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a686536b9105f1ce3c26859c2619541
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d816bcddde9bdfa6d6e21ef886d156c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a686536b9105f1ce3c26859c2619541
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e95fcf35242a4e7188fccaf99be81476, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c9c4a3d8f1b4e2aa6d0f9c7b5a1e234, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefabs/Effects/mat/StarTrail_2_2 2.png
+- Assets/Resources/Prefabs/Effects/mat/slots_glow.png
+- Assets/Resources/Prefabs/Scene/StartScreenBackground.prefab
+- Assets/Resources/Prefabs/Effects/mat/qiu1tail.mat
+- Assets/Resources/Prefabs/Effects/mat/Yuan_BTN_Hit.png
+- Assets/Resources/Prefabs/Effects/StartScreenRoleShowcaseBodyGlow.png
+- Assets/Resources/Prefabs/Effects/StartScreenRoleShowcaseGlow.png
+- Assets/Resources/Prefabs/Effects/qiu1_tail.prefab
+- Assets/Resources/Prefabs/Effects/MonsterTrailEffect.prefab
+- Assets/Resources/Prefabs/Effects/mat/firewok_dot_3.png
+- Assets/Resources/Prefabs/Effects/mat/qiu1tail 1.mat
+- Assets/Resources/Prefabs/Effects/mat/slots_glow 1.png
+Dependencies:
+- E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/shared_scene

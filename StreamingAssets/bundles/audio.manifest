@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1294530751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6df457468c73aaf85dbb3e8db0850cba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6df457468c73aaf85dbb3e8db0850cba
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Audio/SFX/UI/sfx_choose_open.mp3
+- Assets/Resources/Audio/SFX/UI/sfx_card_focus.mp3
+- Assets/Resources/Audio/BGM/bgm_level_loop.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_wave_spawn.mp3
+- Assets/Resources/Audio/SFX/Bean/sfx_bean_pickup.mp3
+- Assets/Resources/Audio/SFX/Monster/sfx_monster_split_die.mp3
+- Assets/Resources/Audio/BGM/bgm_result_loop.mp3
+- Assets/Resources/Audio/SFX/UI/sfx_ui_click.mp3
+- Assets/Resources/Audio/SFX/Growth/sfx_merge_success.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_hit_void.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_wave_complete.mp3
+- Assets/Resources/Audio/SFX/Monster/sfx_monster_die.mp3
+- Assets/Resources/Audio/SFX/Monster/sfx_monster_hit.mp3
+- Assets/Resources/Audio/BGM/bgm_menu_loop.mp3
+- Assets/Resources/Audio/SFX/UI/sfx_ui_confirm.mp3
+- Assets/Resources/Audio/SFX/Bean/sfx_bean_drop.mp3
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2716879698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5fa685bb2dc38ab519fdf3b92d6ef8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a5fa685bb2dc38ab519fdf3b92d6ef8f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/archer_1/archer_1_SkeletonData.asset
+- Assets/Art/role/archer_1/archer_1.atlas.txt
+- Assets/Art/role/archer_1/archer_1_Atlas.asset
+- Assets/Art/role/archer_1/archer_1.json
+- Assets/Art/role/archer_1/archer_1.png
+- Assets/Art/role/archer_1/archer_1_Material.mat
+- Assets/Art/role/archer_1/NormalMap.png
+Dependencies: []

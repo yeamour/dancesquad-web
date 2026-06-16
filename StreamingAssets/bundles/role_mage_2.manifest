@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3415336114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1925958b9c01c8b2c62c64c3f89c030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f1925958b9c01c8b2c62c64c3f89c030
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/mage_2/mage_2.json
+- Assets/Art/role/mage_2/mage_2_SkeletonData.asset
+- Assets/Art/role/mage_2/NormalMap.png
+- Assets/Art/role/mage_2/mage_2.png
+- Assets/Art/role/mage_2/mage_2.atlas.txt
+- Assets/Art/role/mage_2/mage_2_Material.mat
+- Assets/Art/role/mage_2/mage_2_Atlas.asset
+Dependencies: []

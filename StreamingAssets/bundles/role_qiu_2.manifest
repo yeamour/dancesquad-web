@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3554561746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e178d9e1641e729c55a1add5ecf321c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae54c08b1bcfdc4acccd8efee7245915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e178d9e1641e729c55a1add5ecf321c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/qiu_2/qiu_2.png
+- Assets/Art/role/qiu_2/qiu_2_Material.mat
+- Assets/Art/role/qiu_2/qiu_2.json
+- Assets/Art/role/qiu_2/qiu_2_Atlas.asset
+- Assets/Art/role/qiu_2/qiu_2_SkeletonData.asset
+- Assets/Art/role/qiu_2/qiu_2.atlas.txt
+Dependencies: []
