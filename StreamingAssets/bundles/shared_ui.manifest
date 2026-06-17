@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 966633146
+CRC: 4120869426
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 16a4bc8a710ae272cef36a512bc4e3f5
+    Hash: 06be446ea927ce08d2a589441dbdb566
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7731ac6f551c9d1a718eb4dd02562b6e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 16a4bc8a710ae272cef36a512bc4e3f5
+    Hash: 06be446ea927ce08d2a589441dbdb566
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -120,47 +120,49 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.SkeletonRendererCustomMaterials/AtlasMaterialOverride
 Assets:
-- Assets/Art/UI/choose/img_mage.png
+- Assets/Art/UI/choose/angle_archer.png
+- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
+- Assets/Art/UI/img_beans.png
+- Assets/Art/UI/newUI/level_grid_high_light.png
+- Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
+- Assets/Art/UI/newUI/img_btn_back_bg.png
+- Assets/Art/UI/newUI/preview-result.png
+- Assets/Art/UI/newUI/result_img_grid.png
+- Assets/Art/UI/choose/a_preview.jpg
+- Assets/Art/UI/newUI/level_grid_color.png
+- Assets/Art/UI/choose/img_tank.png
+- Assets/Prefabs/UI/StartScreen.prefab
+- Assets/Art/UI/newUI/scene_img_fill.png
+- Assets/Prefabs/UI/Choose.prefab
+- Assets/Art/UI/choose/img_angel.png
+- Assets/Prefabs/UI/ResultScreen.prefab
+- Assets/Art/UI/newUI/scene_img_fill_bg.png
+- Assets/Art/UI/newUI/scene_img_monster.png
+- Assets/Art/UI/choose/img_merge.png
+- Assets/Art/UI/newUI/scene_img_bean.png
+- Assets/Art/UI/newUI/result_img_title.png
 - Assets/Prefabs/UI/StartScreenRoleShowcase.prefab
 - Assets/Art/UI/newUI/img_btn_bg.png
 - Assets/Art/UI/newUI/result_img_merge.png
 - Assets/Art/UI/choose/image_bg.png
-- Assets/Art/UI/newUI/scene_img_monster.png
-- Assets/Art/UI/choose/img_merge.png
 - Assets/Art/UI/newUI/img_bg.png
 - Assets/Art/UI/newUI/start_word_random.png
-- Assets/Art/UI/img_beans.png
-- Assets/Art/UI/newUI/level_grid_high_light.png
 - Assets/Art/UI/newUI/result_img_best.png
-- Assets/Art/UI/newUI/img_btn_back_bg.png
-- Assets/Art/UI/newUI/preview-result.png
 - Assets/Art/UI/newUI/scene_img_pause.png
 - Assets/Art/UI/newUI/result_img_time.png
 - Assets/Art/UI/newUI/level_grid.png
-- Assets/Art/UI/choose/img_sword.png
-- Assets/Art/UI/newUI/result_img_grid.png
 - Assets/Art/UI/newUI/start_word_start.png
-- Assets/Art/UI/choose/a_preview.jpg
 - Assets/Art/UI/newUI/img_btn_back_word.png
-- Assets/Art/UI/newUI/level_grid_color.png
-- Assets/Art/UI/choose/img_tank.png
-- Assets/Prefabs/UI/StartScreen.prefab
-- Assets/Prefabs/UI/LevelHud.prefab
-- Assets/Art/UI/newUI/scene_img_fill.png
-- Assets/Prefabs/UI/Choose.prefab
-- Assets/Art/UI/choose/img_angel.png
-- Assets/Art/UI/newUI/result_word_again.png
 - Assets/Art/UI/newUI/start_word_go.png
-- Assets/Prefabs/UI/ResultScreen.prefab
-- Assets/Art/UI/newUI/scene_img_fill_bg.png
+- Assets/Prefabs/UI/LevelHud.prefab
+- Assets/Art/UI/newUI/result_word_again.png
 - Assets/Art/UI/newUI/result_img_monster.png
-- Assets/Art/UI/newUI/scene_img_time.png
+- Assets/Art/UI/choose/img_sword.png
 - Assets/Art/UI/newUI/prevew-start.png
+- Assets/Art/UI/newUI/scene_img_time.png
 - Assets/Art/UI/newUI/preview-level.jpg
 - Assets/Art/UI/img_gold.png
-- Assets/Art/UI/newUI/scene_img_bean.png
-- Assets/Art/UI/newUI/result_img_title.png
-- Assets/Art/UI/choose/angle_archer.png
+- Assets/Art/UI/choose/img_mage.png
 Dependencies:
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/role_sword_1
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/role_sword_1_loding

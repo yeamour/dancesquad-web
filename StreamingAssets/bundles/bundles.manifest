@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2952143243
+CRC: 2884347120
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -16,79 +16,79 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: shared_scene
     Info_3:
-      Name: audio
-      Dependencies: {}
-    Info_4:
       Name: level_1
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: role_angel_1
       Dependencies: {}
-    Info_6:
+    Info_5:
       Name: role_angel_2
       Dependencies: {}
-    Info_7:
+    Info_6:
       Name: role_angel_3
       Dependencies: {}
-    Info_8:
+    Info_7:
       Name: role_angel_hit
       Dependencies: {}
-    Info_9:
+    Info_8:
       Name: role_archer_1
       Dependencies: {}
-    Info_10:
+    Info_9:
       Name: role_archer_2
       Dependencies: {}
-    Info_11:
+    Info_10:
       Name: role_archer_3
       Dependencies: {}
-    Info_12:
+    Info_11:
       Name: role_boss_robot
       Dependencies: {}
-    Info_13:
+    Info_12:
       Name: role_mage_1
       Dependencies: {}
-    Info_14:
+    Info_13:
       Name: role_mage_2
       Dependencies: {}
-    Info_15:
+    Info_14:
       Name: role_mage_3
       Dependencies: {}
-    Info_16:
+    Info_15:
       Name: role_mage_hit
       Dependencies: {}
-    Info_17:
+    Info_16:
       Name: role_monster_1_1
       Dependencies: {}
-    Info_18:
+    Info_17:
       Name: role_qiu_1
       Dependencies: {}
-    Info_19:
+    Info_18:
       Name: role_qiu_2
       Dependencies: {}
-    Info_20:
+    Info_19:
       Name: role_qiu_3
       Dependencies: {}
-    Info_21:
+    Info_20:
       Name: role_qiu_4
       Dependencies: {}
-    Info_22:
+    Info_21:
       Name: role_qiu_5
       Dependencies: {}
-    Info_23:
+    Info_22:
       Name: role_swordsman
       Dependencies: {}
-    Info_24:
+    Info_23:
       Name: role_sword_1
       Dependencies: {}
-    Info_25:
+    Info_24:
       Name: role_sword_1_loding
       Dependencies: {}
-    Info_26:
+    Info_25:
       Name: role_sword_2
       Dependencies: {}
-    Info_27:
+    Info_26:
       Name: role_sword_3
+      Dependencies: {}
+    Info_27:
+      Name: role_sword_hit
       Dependencies: {}
     Info_28:
       Name: role_tank_1

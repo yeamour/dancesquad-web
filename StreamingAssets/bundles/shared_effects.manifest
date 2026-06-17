@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2772161223
+CRC: 570421207
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a686536b9105f1ce3c26859c2619541
+    Hash: 5ab90c425172f45c4b72b34ebad9d5b0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7d816bcddde9bdfa6d6e21ef886d156c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8a686536b9105f1ce3c26859c2619541
+    Hash: 5ab90c425172f45c4b72b34ebad9d5b0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -51,8 +51,6 @@ Assets:
 - Assets/Resources/Prefabs/Scene/StartScreenBackground.prefab
 - Assets/Resources/Prefabs/Effects/mat/qiu1tail.mat
 - Assets/Resources/Prefabs/Effects/mat/Yuan_BTN_Hit.png
-- Assets/Resources/Prefabs/Effects/StartScreenRoleShowcaseBodyGlow.png
-- Assets/Resources/Prefabs/Effects/StartScreenRoleShowcaseGlow.png
 - Assets/Resources/Prefabs/Effects/qiu1_tail.prefab
 - Assets/Resources/Prefabs/Effects/MonsterTrailEffect.prefab
 - Assets/Resources/Prefabs/Effects/mat/firewok_dot_3.png
