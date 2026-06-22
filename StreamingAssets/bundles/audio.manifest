@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 722777219
+CRC: 3577465053
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f3b7789407c6b31278a7df94b5df9ce
+    Hash: e102923acbdeeecb44a1b03d79526c95
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9f3b7789407c6b31278a7df94b5df9ce
+    Hash: e102923acbdeeecb44a1b03d79526c95
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -33,6 +33,7 @@ Assets:
 - Assets/Resources/Audio/SFX/UI/sfx_choose_open.mp3
 - Assets/Resources/Audio/SFX/Role/sfx_role_spawn.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_sword_attack.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_dash_start.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_mage_skill2.mp3
 - Assets/Resources/Audio/SFX/Game/sfx_hit_void.mp3
 - Assets/Resources/Audio/SFX/Game/sfx_wave_complete.mp3
@@ -52,4 +53,5 @@ Assets:
 - Assets/Resources/Audio/SFX/Skill/sfx_archer_skill2.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_heal_skill2.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_sword_skill1.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_turn.mp3
 Dependencies: []
