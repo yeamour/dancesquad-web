@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2377451882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddc49f71a1b4184e0192b31bb65cbdd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae54c08b1bcfdc4acccd8efee7245915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ddc49f71a1b4184e0192b31bb65cbdd8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/spi_join/spi_join_Atlas.asset
+- Assets/Art/role/spi_join/spi_join.json
+- Assets/Art/role/spi_join/spi_join_SkeletonData.asset
+- Assets/Art/role/spi_join/spi_join.atlas.txt
+- Assets/Art/role/spi_join/spi_join_Material.mat
+- Assets/Art/role/spi_join/spi_join.png
+Dependencies: []

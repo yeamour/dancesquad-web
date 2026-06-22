@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 968621497
+CRC: 915022384
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -96,38 +96,47 @@ AssetBundleManifest:
       Name: role_qiu_5
       Dependencies: {}
     Info_27:
-      Name: role_swordsman
+      Name: role_spi_die
       Dependencies: {}
     Info_28:
-      Name: role_sword_1
+      Name: role_spi_join
       Dependencies: {}
     Info_29:
-      Name: role_sword_1_loding
+      Name: role_spi_synthesis
       Dependencies: {}
     Info_30:
-      Name: role_sword_2
+      Name: role_swordsman
       Dependencies: {}
     Info_31:
-      Name: role_sword_3
+      Name: role_sword_1
       Dependencies: {}
     Info_32:
-      Name: role_sword_hit
+      Name: role_sword_1_loding
       Dependencies: {}
     Info_33:
-      Name: role_tank_1
+      Name: role_sword_2
       Dependencies: {}
     Info_34:
-      Name: role_tank_1_loading
+      Name: role_sword_3
       Dependencies: {}
     Info_35:
-      Name: role_tank_2
+      Name: role_sword_hit
       Dependencies: {}
     Info_36:
-      Name: role_tank_3
+      Name: role_tank_1
       Dependencies: {}
     Info_37:
-      Name: role_tank_hit
+      Name: role_tank_1_loading
       Dependencies: {}
     Info_38:
+      Name: role_tank_2
+      Dependencies: {}
+    Info_39:
+      Name: role_tank_3
+      Dependencies: {}
+    Info_40:
+      Name: role_tank_hit
+      Dependencies: {}
+    Info_41:
       Name: role_strange_entrance
       Dependencies: {}
