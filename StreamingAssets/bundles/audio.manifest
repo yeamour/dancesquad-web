@@ -1,22 +1,22 @@
 ManifestFileVersion: 0
-CRC: 3599342800
+CRC: 722777219
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e6fe378dc245017858b1eca18abde8a
+    Hash: 9f3b7789407c6b31278a7df94b5df9ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8e6fe378dc245017858b1eca18abde8a
+    Hash: 9f3b7789407c6b31278a7df94b5df9ce
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Audio/SFX/UI/sfx_choose_open.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_result_show.mp3
 - Assets/Resources/Audio/SFX/UI/sfx_card_focus.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_sword_skill2.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_mage_skill1.mp3
@@ -28,7 +28,9 @@ Assets:
 - Assets/Resources/Audio/SFX/Monster/sfx_monster_split_die.mp3
 - Assets/Resources/Audio/BGM/bgm_result_loop.mp3
 - Assets/Resources/Audio/SFX/UI/sfx_ui_click.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_result_stat_pop.mp3
 - Assets/Resources/Audio/SFX/Growth/sfx_merge_success.mp3
+- Assets/Resources/Audio/SFX/UI/sfx_choose_open.mp3
 - Assets/Resources/Audio/SFX/Role/sfx_role_spawn.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_sword_attack.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_mage_skill2.mp3
@@ -37,11 +39,13 @@ Assets:
 - Assets/Resources/Audio/SFX/Skill/sfx_shield_attack.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_archer_skill1.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_mage_attack.mp3
+- Assets/Resources/Audio/SFX/Game/sfx_result_best.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_shield_skill2.mp3
 - Assets/Resources/Audio/SFX/Monster/sfx_monster_die.mp3
 - Assets/Resources/Audio/SFX/Monster/sfx_monster_hit.mp3
 - Assets/Resources/Audio/BGM/bgm_menu_loop.mp3
 - Assets/Resources/Audio/SFX/Skill/sfx_archer_attack.mp3
+- Assets/Resources/Audio/SFX/UI/sfx_role_reveal.mp3
 - Assets/Resources/Audio/SFX/Role/sfx_role_die.mp3
 - Assets/Resources/Audio/SFX/UI/sfx_ui_confirm.mp3
 - Assets/Resources/Audio/SFX/Bean/sfx_bean_drop.mp3

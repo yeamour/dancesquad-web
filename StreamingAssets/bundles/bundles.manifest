@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1790876311
+CRC: 2054862347
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -24,107 +24,110 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: shared_scene
     Info_3:
-      Name: level_1
+      Name: audio
       Dependencies: {}
     Info_4:
-      Name: role_angel_1
+      Name: level_1
       Dependencies: {}
     Info_5:
-      Name: role_angel_1_loading
+      Name: role_angel_1
       Dependencies: {}
     Info_6:
-      Name: role_angel_2
+      Name: role_angel_1_loading
       Dependencies: {}
     Info_7:
-      Name: role_angel_3
+      Name: role_angel_2
       Dependencies: {}
     Info_8:
-      Name: role_angel_hit
+      Name: role_angel_3
       Dependencies: {}
     Info_9:
-      Name: role_archer_1
+      Name: role_angel_hit
       Dependencies: {}
     Info_10:
-      Name: role_archer_2
+      Name: role_archer_1
       Dependencies: {}
     Info_11:
-      Name: role_archer_3
+      Name: role_archer_2
       Dependencies: {}
     Info_12:
-      Name: role_archer_hit
+      Name: role_archer_3
       Dependencies: {}
     Info_13:
-      Name: role_archer_loading
+      Name: role_archer_hit
       Dependencies: {}
     Info_14:
-      Name: role_boss_robot
+      Name: role_archer_loading
       Dependencies: {}
     Info_15:
-      Name: role_mage_1
+      Name: role_boss_robot
       Dependencies: {}
     Info_16:
-      Name: role_mage_1_loading
+      Name: role_mage_1
       Dependencies: {}
     Info_17:
-      Name: role_mage_2
+      Name: role_mage_1_loading
       Dependencies: {}
     Info_18:
-      Name: role_mage_3
+      Name: role_mage_2
       Dependencies: {}
     Info_19:
-      Name: role_mage_hit
+      Name: role_mage_3
       Dependencies: {}
     Info_20:
-      Name: role_monster_1_1
+      Name: role_mage_hit
       Dependencies: {}
     Info_21:
-      Name: role_qiu_1
+      Name: role_monster_1_1
       Dependencies: {}
     Info_22:
-      Name: role_qiu_2
+      Name: role_qiu_1
       Dependencies: {}
     Info_23:
-      Name: role_qiu_3
+      Name: role_qiu_2
       Dependencies: {}
     Info_24:
-      Name: role_qiu_4
+      Name: role_qiu_3
       Dependencies: {}
     Info_25:
-      Name: role_qiu_5
+      Name: role_qiu_4
       Dependencies: {}
     Info_26:
-      Name: role_swordsman
+      Name: role_qiu_5
       Dependencies: {}
     Info_27:
-      Name: role_sword_1
+      Name: role_swordsman
       Dependencies: {}
     Info_28:
-      Name: role_sword_1_loding
+      Name: role_sword_1
       Dependencies: {}
     Info_29:
-      Name: role_sword_2
+      Name: role_sword_1_loding
       Dependencies: {}
     Info_30:
-      Name: role_sword_3
+      Name: role_sword_2
       Dependencies: {}
     Info_31:
-      Name: role_sword_hit
+      Name: role_sword_3
       Dependencies: {}
     Info_32:
-      Name: role_tank_1
+      Name: role_sword_hit
       Dependencies: {}
     Info_33:
-      Name: role_tank_1_loading
+      Name: role_tank_1
       Dependencies: {}
     Info_34:
-      Name: role_tank_2
+      Name: role_tank_1_loading
       Dependencies: {}
     Info_35:
-      Name: role_tank_3
+      Name: role_tank_2
       Dependencies: {}
     Info_36:
-      Name: role_tank_hit
+      Name: role_tank_3
       Dependencies: {}
     Info_37:
+      Name: role_tank_hit
+      Dependencies: {}
+    Info_38:
       Name: role_strange_entrance
       Dependencies: {}
