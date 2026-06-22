@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3010318421
+CRC: 1770698792
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a083a76207b7a950fc9222137f647f30
+    Hash: b1fe6b416746ea9ab159961f1978a699
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a083a76207b7a950fc9222137f647f30
+    Hash: b1fe6b416746ea9ab159961f1978a699
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -33,6 +33,7 @@ SerializeReferenceClassIdentifiers:
   ClassName: Spine.Unity.BlendModeMaterials
 Assets:
 - Assets/Art/role/tank_1/tank_1_Material.mat
+- Assets/Art/role/tank_1/tank_1_Material_loading.mat
 - Assets/Art/role/tank_1/tank_1.png
 - Assets/Art/role/tank_1/tank_1_Atlas.asset
 - Assets/Art/role/tank_1/tank_1.json

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2397416969
+CRC: 1590560068
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 844f6fe4701bc5f47f405919befb7652
+    Hash: d75ebc357a55bf9715a299df49753143
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 844f6fe4701bc5f47f405919befb7652
+    Hash: d75ebc357a55bf9715a299df49753143
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -37,6 +37,7 @@ Assets:
 - Assets/Art/role/sword_1/sword_1.atlas.txt
 - Assets/Art/role/sword_1/sword_1_Atlas.asset
 - Assets/Art/role/sword_1/sword_1_Material.mat
+- Assets/Art/role/sword_1/sword_1_Material_loading.mat
 - Assets/Art/role/sword_1/NormalMap.png
 - Assets/Art/role/sword_1/sword_1_SkeletonData.asset
 Dependencies: []

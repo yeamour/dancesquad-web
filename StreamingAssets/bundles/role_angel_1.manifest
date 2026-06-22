@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 643240819
+CRC: 1536165747
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 422ce88c26d888e5089350ae2acc372e
+    Hash: a918718fbb64a74aea94444cc1c1887e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 422ce88c26d888e5089350ae2acc372e
+    Hash: a918718fbb64a74aea94444cc1c1887e
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -34,6 +34,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Art/role/angel_1/angel_1.atlas.txt
 - Assets/Art/role/angel_1/angel_1.json
+- Assets/Art/role/angel_1/angel_1_Material_loading.mat
 - Assets/Art/role/angel_1/angel_1_SkeletonData.asset
 - Assets/Art/role/angel_1/angel_1_Material.mat
 - Assets/Art/role/angel_1/NormalMap.png

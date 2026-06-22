@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1406652789
+CRC: 2604384330
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8941f4fbe8bf2e54790bf30f4043e57
+    Hash: db755d22a15597d6ed699a795632e0a8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d8941f4fbe8bf2e54790bf30f4043e57
+    Hash: db755d22a15597d6ed699a795632e0a8
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -35,6 +35,7 @@ Assets:
 - Assets/Art/role/mage_1/mage_1_Atlas.asset
 - Assets/Art/role/mage_1/mage_1_SkeletonData.asset
 - Assets/Art/role/mage_1/mage_1_Material.mat
+- Assets/Art/role/mage_1/mage_1_Material_loading.mat
 - Assets/Art/role/mage_1/mage_1.atlas.txt
 - Assets/Art/role/mage_1/mage_1.json
 - Assets/Art/role/mage_1/NormalMap.png

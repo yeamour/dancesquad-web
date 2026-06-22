@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1303837314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be832c7ffa92e4276060726a0caf832c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae54c08b1bcfdc4acccd8efee7245915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be832c7ffa92e4276060726a0caf832c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/angel_1_loading/angel_1_loading.atlas.txt
+- Assets/Art/role/angel_1_loading/angel_1_loading.png
+- Assets/Art/role/angel_1_loading/angel_1_loading.json
+- Assets/Art/role/angel_1_loading/angel_1_loading_Material.mat
+- Assets/Art/role/angel_1_loading/angel_1_loading_SkeletonData.asset
+- Assets/Art/role/angel_1_loading/angel_1_loading_Atlas.asset
+- Assets/Art/role/angel_1_loading/angel_1_loading_Material 1.mat
+Dependencies: []

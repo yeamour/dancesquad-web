@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3019375245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c9c8e6a3ca4ad521d8a93a83586ca91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae54c08b1bcfdc4acccd8efee7245915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c9c8e6a3ca4ad521d8a93a83586ca91
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Art/role/archer_loading/archer_1_loading_Material 1.mat
+- Assets/Art/role/archer_loading/archer_1_loading.atlas.txt
+- Assets/Art/role/archer_loading/archer_1_loading_Material.mat
+- Assets/Art/role/archer_loading/archer_1_loading_Atlas.asset
+- Assets/Art/role/archer_loading/archer_1_loading.json
+- Assets/Art/role/archer_loading/archer_1_loading_SkeletonData.asset
+- Assets/Art/role/archer_loading/archer_1_loading.png
+Dependencies: []

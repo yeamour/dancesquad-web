@@ -1,25 +1,37 @@
 ManifestFileVersion: 0
-CRC: 1844474140
+CRC: 2506820916
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 01c25a76b7591d465b11d934fa6b611e
+    Hash: eba4345456c4ad4587095cca3ea67068
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae54c08b1bcfdc4acccd8efee7245915
+    Hash: 230539c7b4e802118aa5619655c8e125
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 01c25a76b7591d465b11d934fa6b611e
+    Hash: eba4345456c4ad4587095cca3ea67068
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
 - Class: 49
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
 - Class: 114
@@ -29,10 +41,13 @@ ClassTypes:
 SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
 Assets:
 - Assets/Art/role/mage_hit/mage_hit_SkeletonData.asset
 - Assets/Art/role/mage_hit/mage_hit.png
 - Assets/Art/role/mage_hit/mage_hit_Atlas.asset
+- Assets/Art/role/mage_hit/Spine GameObject (mage_hit).prefab
 - Assets/Art/role/mage_hit/mage_hit.atlas.txt
 - Assets/Art/role/mage_hit/mage_hit_Material.mat
 - Assets/Art/role/mage_hit/mage_hit.json

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3465046381
+CRC: 3468670586
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 68a4277914a8b3b15dcf87b741120e43
+    Hash: c57c5a33870eec02b65a8e44cda6944b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae54c08b1bcfdc4acccd8efee7245915
+    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 68a4277914a8b3b15dcf87b741120e43
+    Hash: c57c5a33870eec02b65a8e44cda6944b
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -26,11 +26,14 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
 Assets:
 - Assets/Art/role/archer_3/archer_3_Material.mat
+- "Assets/Art/role/archer_3/NormalMap - \u526F\u672C.png"
 - Assets/Art/role/archer_3/archer_3.png
 - Assets/Art/role/archer_3/archer_3.json
 - Assets/Art/role/archer_3/archer_3_Atlas.asset
