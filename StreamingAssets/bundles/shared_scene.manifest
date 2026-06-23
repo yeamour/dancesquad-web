@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2503092667
+CRC: 1683203126
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d14e3ba7599ad55f2aa0c9a452b2df3
+    Hash: 3a7fb7d06405fd2964057c16c8023416
   TypeTreeHash:
     serializedVersion: 2
     Hash: 63429d0324c58f345e0eee6ade72eb33
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7d14e3ba7599ad55f2aa0c9a452b2df3
+    Hash: 3a7fb7d06405fd2964057c16c8023416
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,8 +25,6 @@ Assets:
 - Assets/Art/scene/MonsterTrailMaterial.mat
 - Assets/Art/scene/dige_1.png
 - Assets/Art/scene/enemy_trail_soft_preview.png
-- Assets/Art/scene/frame.png
-- Assets/Art/scene/grid.png
 - Assets/Art/scene/dige_2.png
 - Assets/Art/scene/enemy_trail_soft.png
 - Assets/Art/scene/cell1.png
