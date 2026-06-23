@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2189577569
+CRC: 3852781816
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 90d5ec5d3e273721ff8f56b2d52e3d08
+    Hash: 4f0966b9a182c9d7ad2afb4b1ab60a8f
   TypeTreeHash:
     serializedVersion: 2
     Hash: df7121fcc1f0abfecacc8a941838d89c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 90d5ec5d3e273721ff8f56b2d52e3d08
+    Hash: 4f0966b9a182c9d7ad2afb4b1ab60a8f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -130,7 +130,6 @@ Assets:
 - Assets/Art/UI/newUI/result_img_merge.png
 - Assets/Art/UI/choose/image_bg.png
 - Assets/Art/UI/choose/img_merge.png
-- Assets/Art/UI/newUI/img_bg.png
 - Assets/Art/UI/newUI/start_word_random.png
 - Assets/Art/UI/img_beans.png
 - Assets/Art/UI/newUI/level_grid_high_light.png

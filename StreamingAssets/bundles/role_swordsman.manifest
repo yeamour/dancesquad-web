@@ -1,20 +1,18 @@
 ManifestFileVersion: 0
-CRC: 4264292719
+CRC: 3978395501
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2da945f5f2eb16ab5bee649a4e29efb2
+    Hash: 5ac72be7bd9e89c7b400100f231eec30
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae54c08b1bcfdc4acccd8efee7245915
+    Hash: a146cdbe7257a2d92753fefa8ef173eb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2da945f5f2eb16ab5bee649a4e29efb2
+    Hash: 5ac72be7bd9e89c7b400100f231eec30
 HashAppended: 0
 ClassTypes:
 - Class: 21
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
@@ -35,5 +33,4 @@ Assets:
 - Assets/Art/role/swordsman/spi_swordsman_Atlas.asset
 - Assets/Art/role/swordsman/spi_swordsman.json
 - Assets/Art/role/swordsman/spi_swordsman_SkeletonData.asset
-- Assets/Art/role/swordsman/spi_swordsman.png
 Dependencies: []
