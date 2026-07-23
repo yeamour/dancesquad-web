@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1635353650
+CRC: 2415936189
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 32e5fbc51c2267d728936e5dcea14a90
+    Hash: 201c4835d2e6d641c1657f930c056b40
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6a3b8fcc11b05594dc5ef6b20e2d0220
+    Hash: a809cc2a18a11994e419a7ed236edecb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 32e5fbc51c2267d728936e5dcea14a90
+    Hash: 201c4835d2e6d641c1657f930c056b40
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,10 +35,6 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 9a3d6a2b4c9f4f58b1d2e3f4a5b6c7d8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8e4a9f6d2c4b4d9f8a1c2e3f4b5a6c70, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -46,6 +42,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e4a9f6d2c4b4d9f8a1c2e3f4b5a6c70, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
 - Class: 114
@@ -72,6 +70,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a90c5ac5ceae48699aabc6b697b5a19c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a3d6a2b4c9f4f58b1d2e3f4a5b6c7d8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
 - Class: 115
@@ -127,47 +127,48 @@ SerializeReferenceClassIdentifiers:
   ClassName: Spine.Unity.SkeletonRendererCustomMaterials/AtlasMaterialOverride
 Assets:
 - Assets/Prefabs/UI/BorderLoop.prefab
+- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
+- Assets/Art/UI/newUI/dead.controller
+- Assets/Art/UI/img_beans.png
+- Assets/Art/stone.anim
+- Assets/Art/UI/newUI/level_grid_high_light.png
+- Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
+- Assets/Art/UI/newUI/dead_mask_anim.anim
+- Assets/Art/UI/newUI/img_btn_back_bg.png
+- Assets/Art/UI/newUI/dead_mask.png
+- Assets/Art/UI/newUI/result_img_grid.png
+- Assets/Art/UI/newUI/level_grid_color.png
+- Assets/Art/UI/choose/img_tank.png
+- Assets/Prefabs/UI/StartScreen.prefab
+- Assets/Art/UI/newUI/scene_img_fill.png
+- Assets/Prefabs/UI/Choose.prefab
+- Assets/Art/UI/choose/img_angel.png
+- Assets/Prefabs/UI/ResultScreen.prefab
+- Assets/Art/UI/newUI/scene_img_fill_bg.png
+- Assets/Art/UI/newUI/scene_img_monster.png
+- Assets/Art/UI/choose/img_merge.png
+- Assets/Art/UI/newUI/scene_img_bean.png
+- Assets/Art/UI/newUI/result_img_title.png
 - Assets/Prefabs/UI/StartScreenRoleShowcase.prefab
 - Assets/Art/UI/newUI/img_btn_bg.png
 - Assets/Art/UI/newUI/result_img_merge.png
 - Assets/Art/UI/choose/image_bg.png
-- Assets/Art/UI/choose/img_mage.png
-- Assets/Art/UI/choose/img_merge.png
-- Assets/Art/UI/newUI/dead.controller
-- Assets/Art/UI/img_beans.png
 - Assets/Art/UI/newUI/start_word_random.png
-- Assets/Art/UI/newUI/level_grid_high_light.png
 - Assets/Art/UI/newUI/result_img_best.png
-- Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
-- Assets/Art/UI/newUI/dead_mask_anim.anim
-- Assets/Art/UI/newUI/img_btn_back_bg.png
 - Assets/Art/UI/newUI/scene_img_pause.png
-- Assets/Art/UI/newUI/dead_mask.png
 - Assets/Art/UI/newUI/result_img_time.png
 - Assets/Art/UI/newUI/level_grid.png
-- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
-- Assets/Art/UI/newUI/result_img_grid.png
 - Assets/Art/UI/newUI/start_word_start.png
 - Assets/Art/UI/newUI/img_btn_back_word.png
-- Assets/Art/UI/newUI/level_grid_color.png
-- Assets/Art/UI/choose/img_tank.png
-- Assets/Prefabs/UI/StartScreen.prefab
-- Assets/Prefabs/UI/LevelHud.prefab
-- Assets/Art/UI/newUI/scene_img_fill.png
-- Assets/Prefabs/UI/Choose.prefab
-- Assets/Art/UI/choose/img_angel.png
-- Assets/Art/UI/newUI/result_word_again.png
 - Assets/Art/UI/newUI/start_word_go.png
-- Assets/Prefabs/UI/ResultScreen.prefab
-- Assets/Art/UI/newUI/scene_img_fill_bg.png
+- Assets/Prefabs/UI/LevelHud.prefab
+- Assets/Art/UI/newUI/result_word_again.png
 - Assets/Art/UI/newUI/result_img_monster.png
 - Assets/Art/UI/newUI/scene_img_time.png
 - Assets/Art/UI/choose/img_sword.png
-- Assets/Art/UI/newUI/scene_img_monster.png
 - Assets/Art/UI/img_gold.png
-- Assets/Art/UI/newUI/scene_img_bean.png
-- Assets/Art/UI/newUI/result_img_title.png
 - Assets/Art/UI/choose/angle_archer.png
+- Assets/Art/UI/choose/img_mage.png
 Dependencies:
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/role_angel_1
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/role_angel_1_loading
