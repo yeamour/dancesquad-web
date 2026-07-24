@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1065885836
+CRC: 3123571385
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 131d6f28b956a2046fb5a3c131e1139e
+    Hash: 9ea1ea2b38726ee58997a135b09b2d88
   TypeTreeHash:
     serializedVersion: 2
     Hash: ae54c08b1bcfdc4acccd8efee7245915
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 131d6f28b956a2046fb5a3c131e1139e
+    Hash: 9ea1ea2b38726ee58997a135b09b2d88
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -31,7 +31,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: Spine.Unity.BlendModeMaterials
 Assets:
 - Assets/Art/role/angel_3/angel_3_SkeletonData.asset
-- Assets/Art/role/angel_3/NormalMap.png
 - Assets/Art/role/angel_3/angel_3_Material.mat
 - Assets/Art/role/angel_3/angel_3.png
 - Assets/Art/role/angel_3/angel_3.json

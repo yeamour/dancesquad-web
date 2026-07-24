@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2415936189
+CRC: 3621796616
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 201c4835d2e6d641c1657f930c056b40
+    Hash: 8987c286e507ac93259e451c21e6ce65
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a809cc2a18a11994e419a7ed236edecb
+    Hash: 30fca58f034f5cbacbf3931023316c89
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 201c4835d2e6d641c1657f930c056b40
+    Hash: 8987c286e507ac93259e451c21e6ce65
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -92,6 +92,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 328
   Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.Timeline
   ClassName: UnityEngine.Timeline.SignalReceiver/EventKeyValue
@@ -127,45 +129,23 @@ SerializeReferenceClassIdentifiers:
   ClassName: Spine.Unity.SkeletonRendererCustomMaterials/AtlasMaterialOverride
 Assets:
 - Assets/Prefabs/UI/BorderLoop.prefab
-- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
+- Assets/Prefabs/UI/StartScreenRoleShowcase.prefab
+- Assets/Art/UI/choose/img_merge.png
+- Assets/Art/UI/choose/image_bg.png
 - Assets/Art/UI/newUI/dead.controller
 - Assets/Art/UI/img_beans.png
 - Assets/Art/stone.anim
-- Assets/Art/UI/newUI/level_grid_high_light.png
 - Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
 - Assets/Art/UI/newUI/dead_mask_anim.anim
-- Assets/Art/UI/newUI/img_btn_back_bg.png
-- Assets/Art/UI/newUI/dead_mask.png
-- Assets/Art/UI/newUI/result_img_grid.png
-- Assets/Art/UI/newUI/level_grid_color.png
+- Assets/Art/UI/newUI/newUI.spriteatlas
 - Assets/Art/UI/choose/img_tank.png
 - Assets/Prefabs/UI/StartScreen.prefab
-- Assets/Art/UI/newUI/scene_img_fill.png
+- Assets/Prefabs/UI/LevelHud.prefab
 - Assets/Prefabs/UI/Choose.prefab
 - Assets/Art/UI/choose/img_angel.png
 - Assets/Prefabs/UI/ResultScreen.prefab
-- Assets/Art/UI/newUI/scene_img_fill_bg.png
-- Assets/Art/UI/newUI/scene_img_monster.png
-- Assets/Art/UI/choose/img_merge.png
-- Assets/Art/UI/newUI/scene_img_bean.png
-- Assets/Art/UI/newUI/result_img_title.png
-- Assets/Prefabs/UI/StartScreenRoleShowcase.prefab
-- Assets/Art/UI/newUI/img_btn_bg.png
-- Assets/Art/UI/newUI/result_img_merge.png
-- Assets/Art/UI/choose/image_bg.png
-- Assets/Art/UI/newUI/start_word_random.png
-- Assets/Art/UI/newUI/result_img_best.png
-- Assets/Art/UI/newUI/scene_img_pause.png
-- Assets/Art/UI/newUI/result_img_time.png
-- Assets/Art/UI/newUI/level_grid.png
-- Assets/Art/UI/newUI/start_word_start.png
-- Assets/Art/UI/newUI/img_btn_back_word.png
-- Assets/Art/UI/newUI/start_word_go.png
-- Assets/Prefabs/UI/LevelHud.prefab
-- Assets/Art/UI/newUI/result_word_again.png
-- Assets/Art/UI/newUI/result_img_monster.png
-- Assets/Art/UI/newUI/scene_img_time.png
 - Assets/Art/UI/choose/img_sword.png
+- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
 - Assets/Art/UI/img_gold.png
 - Assets/Art/UI/choose/angle_archer.png
 - Assets/Art/UI/choose/img_mage.png

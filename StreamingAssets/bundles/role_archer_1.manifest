@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 300222227
+CRC: 919833001
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d40f913971e2e8f5893ff0b18fe0dd6b
+    Hash: 54aaaf06425470cbfb11411d19098600
   TypeTreeHash:
     serializedVersion: 2
     Hash: ae54c08b1bcfdc4acccd8efee7245915
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d40f913971e2e8f5893ff0b18fe0dd6b
+    Hash: 54aaaf06425470cbfb11411d19098600
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -37,5 +37,4 @@ Assets:
 - Assets/Art/role/archer_1/archer_1.png
 - Assets/Art/role/archer_1/archer_1_Material.mat
 - Assets/Art/role/archer_1/archer_1_Material_loading.mat
-- Assets/Art/role/archer_1/NormalMap.png
 Dependencies: []

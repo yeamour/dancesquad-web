@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2057734644
+CRC: 3358129502
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 61e89e2fb3c064a8c99f477cec732281
+    Hash: 3ff41e3291c1238e4266902c2eeed7cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: ae54c08b1bcfdc4acccd8efee7245915
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 61e89e2fb3c064a8c99f477cec732281
+    Hash: 3ff41e3291c1238e4266902c2eeed7cb
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -35,6 +35,5 @@ Assets:
 - Assets/Art/role/tank_3/tank_3_SkeletonData.asset
 - Assets/Art/role/tank_3/tank_3.png
 - Assets/Art/role/tank_3/tank_3.atlas.txt
-- Assets/Art/role/tank_3/NormalMap.png
 - Assets/Art/role/tank_3/tank_3_Atlas.asset
 Dependencies: []
