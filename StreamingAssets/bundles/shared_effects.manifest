@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1124106454
+CRC: 2318638572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3fe5619a6eae3d459a80c03400f0f1b1
+    Hash: b2d178173ab876616e121b27448c7398
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7d816bcddde9bdfa6d6e21ef886d156c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3fe5619a6eae3d459a80c03400f0f1b1
+    Hash: b2d178173ab876616e121b27448c7398
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -46,23 +46,27 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Resources/Prefabs/Effects/mat/area_trail_dot_2 - Copy.png
 - Assets/Resources/Prefabs/Effects/mat/guangquan.png
+- Assets/Resources/Prefabs/Effects/mat/slots_glow 1.png
 - Assets/Resources/Prefabs/Effects/mat/StarTrail_2_2 2.png
+- Assets/Resources/Prefabs/Effects/mat/caidai22.png
 - Assets/Resources/Prefabs/Effects/mat/slots_glow.png
 - Assets/Resources/Prefabs/Scene/StartScreenBackground.prefab
 - Assets/Resources/Prefabs/Effects/mat/qiu1tail.mat
 - Assets/Resources/Prefabs/Effects/mat/Yuan_BTN_Hit.png
 - Assets/Resources/Prefabs/Effects/mat/hud_xx.png
 - Assets/Resources/Prefabs/Effects/die.prefab
-- Assets/Resources/Prefabs/Effects/mat/glow.mat
+- Assets/Resources/Prefabs/Effects/mat/caidai.mat
 - Assets/Resources/Prefabs/Effects/mat/glow 1.mat
 - Assets/Resources/Prefabs/Effects/mat/Particle_Impact10.png
-- Assets/Resources/Prefabs/Effects/mat/xing.mat
+- Assets/Resources/Prefabs/Effects/mat/glow.mat
 - Assets/Resources/Prefabs/Effects/qiu1_tail.prefab
+- Assets/Resources/Prefabs/Effects/mat/xing.mat
 - Assets/Resources/Prefabs/Effects/mat/siwangquan1.mat
 - Assets/Resources/Prefabs/Effects/MonsterTrailEffect.prefab
 - Assets/Resources/Prefabs/Effects/mat/firewok_dot_3.png
+- Assets/Resources/Prefabs/Effects/caidai.prefab
 - Assets/Resources/Prefabs/Effects/mat/qiu1tail 1.mat
-- Assets/Resources/Prefabs/Effects/mat/slots_glow 1.png
 Dependencies:
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/shared_scene
