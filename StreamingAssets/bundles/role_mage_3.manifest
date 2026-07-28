@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3008280046
+CRC: 2954089259
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8870f9d6260129c25f5fa3c0f360fba
+    Hash: 328a59f70e2d6e0707b427958c6384a7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
+    Hash: ae54c08b1bcfdc4acccd8efee7245915
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c8870f9d6260129c25f5fa3c0f360fba
+    Hash: 328a59f70e2d6e0707b427958c6384a7
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -26,13 +26,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
 Assets:
-- Assets/Art/role/mage_3/NormalMap.png
 - Assets/Art/role/mage_3/mage_3_SkeletonData.asset
 - Assets/Art/role/mage_3/mage_3.atlas.txt
 - Assets/Art/role/mage_3/mage_3_Atlas.asset
