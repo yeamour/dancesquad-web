@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1521860066
+CRC: 3666167470
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75501121de11bae188cfba5ce712af74
+    Hash: df77c877c101355efad8cc47dce429a7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae54c08b1bcfdc4acccd8efee7245915
+    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 75501121de11bae188cfba5ce712af74
+    Hash: df77c877c101355efad8cc47dce429a7
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -26,6 +26,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
@@ -36,6 +38,7 @@ Assets:
 - Assets/Art/role/sword_3/sword_3_Atlas.asset
 - Assets/Art/role/sword_3/sword.json
 - Assets/Art/role/sword_3/sword.png
+- Assets/Art/role/sword_3/NormalMap.png
 - Assets/Art/role/sword_3/ramp.png
 - Assets/Art/role/sword_3/sword.atlas.txt
 - Assets/Art/role/sword_3/sword_SkeletonData.asset

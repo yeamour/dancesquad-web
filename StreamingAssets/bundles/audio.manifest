@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 23848943
+CRC: 2944760532
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6178376b99c326820a902a0904d79a30
+    Hash: 56930a95a3812bd78eb851d5f70e0390
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6178376b99c326820a902a0904d79a30
+    Hash: 56930a95a3812bd78eb851d5f70e0390
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -20,6 +20,7 @@ Assets:
 - Assets/Art/Audio/SFX/Game/sfx_result_stat_pop.mp3
 - Assets/Art/Audio/SFX/Skill/sfx_sword_attack.mp3
 - Assets/Art/Audio/SFX/UI/sfx_card_focus.mp3
+- Assets/Art/Audio/SFX/Game/sfx_player_death.mp3
 - Assets/Art/Audio/SFX/Game/sfx_result_show.mp3
 - Assets/Art/Audio/SFX/Game/sfx_wave_spawn.mp3
 - Assets/Art/Audio/SFX/Skill/sfx_heal_move.mp3
@@ -37,6 +38,7 @@ Assets:
 - Assets/Art/Audio/SFX/Skill/sfx_shield_skill1.mp3
 - Assets/Art/Audio/SFX/Skill/sfx_archer_skill1.mp3
 - Assets/Art/Audio/SFX/UI/sfx_role_reveal.mp3
+- Assets/Art/Audio/SFX/Game/sfx_map_switch.mp3
 - Assets/Art/Audio/SFX/Role/sfx_role_die.mp3
 - Assets/Art/Audio/SFX/Bean/sfx_bean_pickup.mp3
 - Assets/Art/Audio/SFX/Game/sfx_wave_complete.mp3
@@ -48,6 +50,7 @@ Assets:
 - Assets/Art/Audio/SFX/Role/sfx_role_spawn.mp3
 - Assets/Art/Audio/SFX/Growth/sfx_merge_success.mp3
 - Assets/Art/Audio/SFX/Skill/sfx_sword_skill2.mp3
+- Assets/Art/Audio/SFX/Game/sfx_squad_death.mp3
 - Assets/Art/Audio/BGM/bgm_level_loop.mp3
 - Assets/Art/Audio/BGM/bgm_result_loop.mp3
 - Assets/Art/Audio/SFX/Skill/sfx_mage_attack.mp3

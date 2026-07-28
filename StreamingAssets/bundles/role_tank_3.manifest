@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3358129502
+CRC: 771961775
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ff41e3291c1238e4266902c2eeed7cb
+    Hash: 091b461325a4c1e85ca3aa58feaa5f5a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae54c08b1bcfdc4acccd8efee7245915
+    Hash: 8d0b2eeca85ea99e9eafe2f10e01a435
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3ff41e3291c1238e4266902c2eeed7cb
+    Hash: 091b461325a4c1e85ca3aa58feaa5f5a
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -26,10 +26,13 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
 Assets:
+- Assets/Art/role/tank_3/NormalMap.png
 - Assets/Art/role/tank_3/tank_3_Material.mat
 - Assets/Art/role/tank_3/tank_3.json
 - Assets/Art/role/tank_3/tank_3_SkeletonData.asset

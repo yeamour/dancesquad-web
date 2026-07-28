@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1857168841
+CRC: 134530309
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8328478303309d3773460ee552f1ccd
+    Hash: e7258093530a0bdfd2a6c9112ba15b4f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 30fca58f034f5cbacbf3931023316c89
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d8328478303309d3773460ee552f1ccd
+    Hash: e7258093530a0bdfd2a6c9112ba15b4f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -136,9 +136,12 @@ Assets:
 - Assets/Art/UI/img_beans.png
 - Assets/Art/stone.anim
 - Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
-- Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
+- Assets/Art/UI/yindao/jindutiao_1.png
 - Assets/Prefabs/UI/guide.prefab
 - Assets/Art/UI/newUI/dead_mask_anim.anim
+- Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
+- Assets/Art/UI/yindao/jindutiao_3.png
+- Assets/Art/UI/yindao/jiazaizhong.png
 - Assets/Art/UI/newUI/newUI.spriteatlas
 - Assets/Art/UI/yindao/xinshouyindao_2.png
 - Assets/Art/UI/choose/img_tank.png
@@ -146,6 +149,7 @@ Assets:
 - Assets/Prefabs/UI/LevelHud.prefab
 - Assets/Prefabs/UI/Choose.prefab
 - Assets/Art/UI/choose/img_angel.png
+- Assets/Art/UI/yindao/jindutiao_2.png
 - Assets/Prefabs/UI/ResultScreen.prefab
 - Assets/Art/UI/choose/img_sword.png
 - Assets/Art/UI/yindao/xinshouyindao_1.png
