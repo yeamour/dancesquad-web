@@ -55,13 +55,13 @@
       }
 
       var buildUrl = "Build";
-      var productVersion = "1.0";
+      var productVersion = "1.4";
       var cacheBust = "?v=" + productVersion;
-      var loaderUrl = buildUrl + "/product.loader.js?v=1.4" + cacheBust;
+      var loaderUrl = buildUrl + "/product.loader.js" + cacheBust;
       var config = {
-        dataUrl: buildUrl + "/product.data?v=1.4" + cacheBust,
-        frameworkUrl: buildUrl + "/product.framework.js?v=1.4" + cacheBust,
-        codeUrl: buildUrl + "/product.wasm?v=1.4" + cacheBust,
+        dataUrl: buildUrl + "/product.data.unityweb" + cacheBust,
+        frameworkUrl: buildUrl + "/product.framework.js.unityweb" + cacheBust,
+        codeUrl: buildUrl + "/product.wasm.unityweb" + cacheBust,
         streamingAssetsUrl: "StreamingAssets",
         companyName: "LLL",
         productName: "DanceSquad",
