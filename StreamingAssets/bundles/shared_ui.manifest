@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 134530309
+CRC: 3564464838
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7258093530a0bdfd2a6c9112ba15b4f
+    Hash: 348c16de7ac1ab6f5c7c114e07d12d06
   TypeTreeHash:
     serializedVersion: 2
     Hash: 30fca58f034f5cbacbf3931023316c89
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e7258093530a0bdfd2a6c9112ba15b4f
+    Hash: 348c16de7ac1ab6f5c7c114e07d12d06
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -135,27 +135,19 @@ Assets:
 - Assets/Art/UI/newUI/dead.controller
 - Assets/Art/UI/img_beans.png
 - Assets/Art/stone.anim
-- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
-- Assets/Art/UI/yindao/jindutiao_1.png
-- Assets/Prefabs/UI/guide.prefab
-- Assets/Art/UI/newUI/dead_mask_anim.anim
 - Assets/Art/UI/Fonts/NotoSansSC-Bold.ttf
-- Assets/Art/UI/yindao/jindutiao_3.png
-- Assets/Art/UI/yindao/jiazaizhong.png
+- Assets/Art/UI/newUI/dead_mask_anim.anim
 - Assets/Art/UI/newUI/newUI.spriteatlas
-- Assets/Art/UI/yindao/xinshouyindao_2.png
 - Assets/Art/UI/choose/img_tank.png
 - Assets/Prefabs/UI/StartScreen.prefab
 - Assets/Prefabs/UI/LevelHud.prefab
 - Assets/Prefabs/UI/Choose.prefab
 - Assets/Art/UI/choose/img_angel.png
-- Assets/Art/UI/yindao/jindutiao_2.png
 - Assets/Prefabs/UI/ResultScreen.prefab
 - Assets/Art/UI/choose/img_sword.png
-- Assets/Art/UI/yindao/xinshouyindao_1.png
+- Assets/Art/UI/Fonts/NotoSansSC-Regular.ttf
 - Assets/Art/UI/img_gold.png
 - Assets/Art/UI/choose/angle_archer.png
-- Assets/Art/UI/yindao/xinshouyindao_3.png
 - Assets/Art/UI/choose/img_mage.png
 Dependencies:
 - E:/DanceSquad/Client/DanceSquad/Assets/StreamingAssets/bundles/role_angel_1
